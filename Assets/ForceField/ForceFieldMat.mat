@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ForceFieldMat
+  m_Shader: {fileID: -6465566751694194690, guid: e6cbefb2edf63214fae2831d3256ee82,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_86F5577:
+        m_Texture: {fileID: 2800000, guid: 72c2b95c303950f4180961ee86ca8000, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_877E545A:
+        m_Texture: {fileID: 2800000, guid: 5d76c0413a2e89e48980058687dacec7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9CCCFDA8:
+        m_Texture: {fileID: 2800000, guid: 55eccd1d748659c46a6fc054ed477578, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EdgeNoise_FB6809FA_Texture2D1BB57F7B_4001312063:
+        m_Texture: {fileID: 2800000, guid: 5d76c0413a2e89e48980058687dacec7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_44DAE5D2: 0.1
+    - Vector1_6E64D78E: 0.5
+    - Vector1_7FD5629B: 0.5
+    - Vector1_B854ECDC: 3
+    - Vector1_D84D6242: 2
+    - Vector1_F42ECFB9: 0.5
+    m_Colors:
+    - Color_8E4594F7: {r: 3.9999995, g: 0.27948198, b: 0, a: 0}
+    - Color_C61C714A: {r: 0, g: 0, b: 32, a: 0}
+    - Color_FD00B8B2: {r: 11.984314, g: 0, b: 0, a: 0}
+    - Vector2_384AA01B: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_3FAE795B: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_5F73AA1F: {r: 11, g: 10, b: 0, a: 0}
+    - Vector2_82B4B2A4: {r: 2, g: 2, b: 0, a: 0}
+    - Vector2_8BE8C7D0: {r: 0.1, g: 0.3, b: 0, a: 0}
+    - Vector2_9880911B: {r: 8, g: 4, b: 0, a: 0}
+    - Vector2_A6D69E28: {r: 0, g: 0.5, b: 0, a: 0}
